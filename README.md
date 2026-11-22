@@ -5,8 +5,8 @@ A small Expo app, built while following Expo's official tutorial: pick a photo f
 ## Run it
 
 ```bash
-npm install
-npx expo start
+pnpm install
+pnpm exec expo start
 ```
 
 Open it in Expo Go, an Android emulator, an iOS simulator or the browser.
